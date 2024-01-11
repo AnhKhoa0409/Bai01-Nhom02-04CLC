@@ -3,7 +3,7 @@ Course ID: ADMP431879E
 
 Group: 04CLC
 
-## Team 2 member
+## Member of team 2
 
 - Đào Hoàng Đăng - 21110163
 - Đỗ Anh Khoa – 21110208 
